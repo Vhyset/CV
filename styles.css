@@ -1,0 +1,50 @@
+/*
+Styling Page
+*/
+  body {
+    background-color: #393E46;
+    color:#EEEEEE;
+
+  }
+
+
+  hr {
+    border-color: #71C9CE;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 6px;
+    width: 100%;
+  }
+
+  h1 {
+    color: #71C9CE;
+  }
+
+  h3 {
+    color: #71C9CE;
+  }
+
+a:link {
+  color: #EEEEEE;
+}
+
+a:visited {
+  color: #71C9CE;
+}
+
+table {
+
+
+}
+
+.jobheader {
+  width: 100%;
+  font-size: 16px;
+  font-weight: bolder;
+
+
+}
+
+.alnright {
+  text-align: right;
+}
